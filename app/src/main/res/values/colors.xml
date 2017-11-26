@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#23d2b0</color>
+    <color name="colorPrimaryDark">#23d2b0</color>
+    <color name="colorAccent">#18816d</color>
+
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#ffffff</color>
+
+    <color name="colorDivider">#e8e8e8</color>
+
+    <color name="textBlack">#333333</color>
+    <color name="textHint">#c0c0c0</color>
+    <color name="textGreen">#18816d</color>
+    <color name="textGrey">#7d7d7d</color>
+    <color name="textPlaceHolder">#b6b8b9</color>
+    <color name="colorFb">#5175c6</color>
+
+    <color name="colorFbPreseed">#415fa1</color>
+    <color name="colorRedPressed">#c24b4e</color>
+
+    <color name="iconGrey">#a9a9a9</color>
+    <color name="colorArrow">#B5B5B5</color>
+</resources>
